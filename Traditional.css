@@ -1,0 +1,805 @@
+.mediaViewInfo {
+	--web-view-name: Traditional;
+	--web-view-id: Traditional;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Traditional;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Traditional {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Traditional;
+	--web-view-id: Traditional;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#Path_14_k {
+	fill: url(#Path_14_k);
+}
+.Path_14_k {
+	overflow: visible;
+	position: absolute;
+	width: 1966.653px;
+	height: 1700.76px;
+	left: 517px;
+	top: -403.739px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Ziri {
+	left: 78px;
+	top: 36px;
+	position: absolute;
+	overflow: visible;
+	width: 97px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 55px;
+	color: rgba(235,98,130,1);
+}
+#Find_your_home {
+	left: 254px;
+	top: 51px;
+	position: absolute;
+	overflow: visible;
+	width: 249px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Sell_your_home {
+	left: 535px;
+	top: 51px;
+	position: absolute;
+	overflow: visible;
+	width: 236px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#My_account {
+	left: 803px;
+	top: 51px;
+	position: absolute;
+	overflow: visible;
+	width: 184px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Rectangle_10 {
+	fill: rgba(234,234,234,1);
+}
+.Rectangle_10 {
+	position: absolute;
+	overflow: visible;
+	width: 770px;
+	height: 72px;
+	left: 1065px;
+	top: 34px;
+}
+#Quick_search {
+	left: 1105px;
+	top: 55px;
+	position: absolute;
+	overflow: visible;
+	width: 172px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(110,110,110,1);
+}
+#icons8-search {
+	fill: rgba(110,110,110,1);
+}
+.icons8-search {
+	overflow: visible;
+	position: absolute;
+	width: 35.402px;
+	height: 35.402px;
+	left: 1776.597px;
+	top: 52.597px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Looking_for_a_home_You_are_in_ {
+	left: 77px;
+	top: 205px;
+	position: absolute;
+	overflow: visible;
+	width: 943px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 70px;
+	color: rgba(0,0,0,1);
+}
+#Choose_your_style {
+	left: 1141px;
+	top: 401px;
+	position: absolute;
+	overflow: visible;
+	width: 719px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 75px;
+	color: rgba(0,0,0,1);
+}
+#Traditional_u {
+	left: 1553px;
+	top: 510px;
+	position: absolute;
+	overflow: visible;
+	width: 283px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 50px;
+	color: rgba(0,0,0,1);
+}
+#Path_15 {
+	opacity: 0.2;
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_15 {
+	overflow: visible;
+	position: absolute;
+	width: 1756.31px;
+	height: 1px;
+	left: 78px;
+	top: 126px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Component_2__1 {
+	position: absolute;
+	width: 770px;
+	height: 72px;
+	left: 77px;
+	top: 485px;
+	overflow: visible;
+}
+#Rectangle_11 {
+	fill: rgba(234,234,234,1);
+}
+.Rectangle_11 {
+	position: absolute;
+	overflow: visible;
+	width: 770px;
+	height: 72px;
+	left: 0px;
+	top: 0px;
+}
+#What_is_your_name {
+	left: 40px;
+	top: 26px;
+	position: absolute;
+	overflow: visible;
+	width: 211px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(110,110,110,1);
+}
+#Component_3__1 {
+	position: absolute;
+	width: 770px;
+	height: 72px;
+	left: 78px;
+	top: 595px;
+	overflow: visible;
+}
+#Rectangle_12 {
+	fill: rgba(234,234,234,1);
+}
+.Rectangle_12 {
+	position: absolute;
+	overflow: visible;
+	width: 770px;
+	height: 72px;
+	left: 0px;
+	top: 0px;
+}
+#What_is_your_email {
+	left: 39px;
+	top: 26px;
+	position: absolute;
+	overflow: visible;
+	width: 210px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(110,110,110,1);
+}
+#Component_4__1 {
+	position: absolute;
+	width: 375px;
+	height: 72px;
+	left: 77px;
+	top: 815px;
+	overflow: visible;
+}
+#Rectangle_15 {
+	fill: rgba(234,234,234,1);
+}
+.Rectangle_15 {
+	position: absolute;
+	overflow: visible;
+	width: 375px;
+	height: 72px;
+	left: 0px;
+	top: 0px;
+}
+#Create_a_password {
+	left: 40px;
+	top: 26px;
+	position: absolute;
+	overflow: visible;
+	width: 199px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(110,110,110,1);
+}
+#Group_14 {
+	position: absolute;
+	width: 375px;
+	height: 72px;
+	left: 473px;
+	top: 815px;
+	overflow: visible;
+	transition: all 3s snap;
+	--web-animation: fadein 3s snap;
+	--web-action-type: page;
+	--web-action-target: Success.html;
+	cursor: pointer;
+}
+#Rectangle_16_ {
+	fill: url(#Rectangle_16_);
+}
+.Rectangle_16_ {
+	position: absolute;
+	overflow: visible;
+	width: 375px;
+	height: 72px;
+	left: 0px;
+	top: 0px;
+}
+#Find_your_home_ {
+	left: 81px;
+	top: 21px;
+	position: absolute;
+	overflow: visible;
+	width: 215px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#Component_1__1 {
+	position: absolute;
+	width: 375px;
+	height: 72px;
+	left: 77px;
+	top: 705px;
+	overflow: visible;
+}
+#Rectangle_17 {
+	fill: rgba(234,234,234,1);
+}
+.Rectangle_17 {
+	position: absolute;
+	overflow: visible;
+	width: 375px;
+	height: 72px;
+	left: 0px;
+	top: 0px;
+}
+#Rectangle_13 {
+	fill: rgba(234,234,234,1);
+}
+.Rectangle_13 {
+	position: absolute;
+	overflow: visible;
+	width: 375px;
+	height: 72px;
+	left: 0px;
+	top: 0px;
+}
+#How_many_bedrooms {
+	left: 40px;
+	top: 26px;
+	position: absolute;
+	overflow: visible;
+	width: 237px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(110,110,110,1);
+}
+#Path_16 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_16 {
+	overflow: visible;
+	position: absolute;
+	width: 26.35px;
+	height: 15.297px;
+	left: 332.211px;
+	top: 32px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#ID4 {
+	display: none;
+	left: 40px;
+	top: 26px;
+	position: absolute;
+	overflow: visible;
+	width: 27px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(110,110,110,1);
+}
+#ID3 {
+	display: none;
+	left: 40px;
+	top: 26px;
+	position: absolute;
+	overflow: visible;
+	width: 13px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(110,110,110,1);
+}
+#ID2 {
+	display: none;
+	left: 40px;
+	top: 26px;
+	position: absolute;
+	overflow: visible;
+	width: 13px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(110,110,110,1);
+}
+#ID1 {
+	display: none;
+	left: 40px;
+	top: 26px;
+	position: absolute;
+	overflow: visible;
+	width: 9px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(110,110,110,1);
+}
+#Any {
+	display: none;
+	left: 40px;
+	top: 26px;
+	position: absolute;
+	overflow: visible;
+	width: 42px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(110,110,110,1);
+}
+#Component_1__2 {
+	position: absolute;
+	width: 375px;
+	height: 72px;
+	left: 473px;
+	top: 705px;
+	overflow: visible;
+}
+#Rectangle_17_bk {
+	fill: rgba(234,234,234,1);
+}
+.Rectangle_17_bk {
+	position: absolute;
+	overflow: visible;
+	width: 375px;
+	height: 72px;
+	left: 0px;
+	top: 0px;
+}
+#Rectangle_13_bl {
+	fill: rgba(234,234,234,1);
+}
+.Rectangle_13_bl {
+	position: absolute;
+	overflow: visible;
+	width: 375px;
+	height: 72px;
+	left: 0px;
+	top: 0px;
+}
+#How_many_bathrooms {
+	left: 40px;
+	top: 26px;
+	position: absolute;
+	overflow: visible;
+	width: 245px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(110,110,110,1);
+}
+#Path_16_bn {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_16_bn {
+	overflow: visible;
+	position: absolute;
+	width: 26.35px;
+	height: 15.297px;
+	left: 332.211px;
+	top: 32px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#ID4_bo {
+	display: none;
+	left: 40px;
+	top: 26px;
+	position: absolute;
+	overflow: visible;
+	width: 27px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(110,110,110,1);
+}
+#ID3_bp {
+	display: none;
+	left: 40px;
+	top: 26px;
+	position: absolute;
+	overflow: visible;
+	width: 13px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(110,110,110,1);
+}
+#ID2_bq {
+	display: none;
+	left: 40px;
+	top: 26px;
+	position: absolute;
+	overflow: visible;
+	width: 13px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(110,110,110,1);
+}
+#ID1_br {
+	display: none;
+	left: 40px;
+	top: 26px;
+	position: absolute;
+	overflow: visible;
+	width: 9px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(110,110,110,1);
+}
+#Any_bs {
+	display: none;
+	left: 40px;
+	top: 26px;
+	position: absolute;
+	overflow: visible;
+	width: 42px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(110,110,110,1);
+}
+#Modern_Home {
+	opacity: 0;
+	position: absolute;
+	width: 223px;
+	height: 253px;
+	left: 1856px;
+	top: 827px;
+	overflow: visible;
+}
+#Barn {
+	opacity: 0;
+	position: absolute;
+	width: 239px;
+	height: 253px;
+	left: 1012px;
+	top: 827px;
+	overflow: visible;
+}
+#Group_8 {
+	position: absolute;
+	width: 400.667px;
+	height: 560.299px;
+	left: 1131.5px;
+	top: 519.643px;
+	overflow: visible;
+	transition: all 0.5s linear;
+	--web-animation: fadein 0.5s linear;
+	--web-action-type: page;
+	--web-action-target: Modern.html;
+	cursor: pointer;
+}
+#Path_4 {
+	fill: rgba(250,144,144,1);
+}
+.Path_4 {
+	overflow: visible;
+	position: absolute;
+	width: 400.667px;
+	height: 339.92px;
+	left: 0px;
+	top: 220.38px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_5 {
+	fill: rgba(235,98,130,1);
+}
+.Path_5 {
+	overflow: visible;
+	position: absolute;
+	width: 102.889px;
+	height: 339.92px;
+	left: 297.777px;
+	top: 220.38px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_6 {
+	fill: rgba(235,98,130,1);
+}
+.Path_6 {
+	overflow: visible;
+	position: absolute;
+	width: 391.177px;
+	height: 201.822px;
+	left: 4.745px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_6 {
+	position: absolute;
+	width: 391.177px;
+	height: 201.822px;
+	left: 4.745px;
+	top: 0px;
+	overflow: visible;
+}
+#Path_9 {
+	fill: rgba(180,241,225,1);
+}
+.Path_9 {
+	overflow: visible;
+	position: absolute;
+	width: 74.343px;
+	height: 87.859px;
+	left: 163.162px;
+	top: 472.44px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_10 {
+	fill: rgba(255,232,196,1);
+}
+.Path_10 {
+	display: none;
+	overflow: visible;
+	position: absolute;
+	width: 89.078px;
+	height: 89.217px;
+	left: 49.493px;
+	top: 277.102px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_9 {
+	fill: rgba(255,233,197,1);
+}
+.Rectangle_9 {
+	position: absolute;
+	overflow: visible;
+	width: 89px;
+	height: 74px;
+	left: 44.5px;
+	top: 285.357px;
+}
+#Path_11 {
+	fill: rgba(255,232,196,1);
+}
+.Path_11 {
+	overflow: visible;
+	position: absolute;
+	width: 89.078px;
+	height: 89.217px;
+	left: 263.362px;
+	top: 277.102px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_7 {
+	position: absolute;
+	width: 89.078px;
+	height: 89.218px;
+	left: 263.362px;
+	top: 277.101px;
+	overflow: visible;
+}
+#Modern {
+	opacity: 0;
+	left: 1894px;
+	top: 510px;
+	position: absolute;
+	overflow: visible;
+	width: 204px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 50px;
+	color: rgba(0,0,0,1);
+}
+#Ranch {
+	opacity: 0;
+	left: 1367px;
+	top: 513px;
+	position: absolute;
+	overflow: visible;
+	width: 167px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 50px;
+	color: rgba(0,0,0,1);
+}
+#Ellipse_1_b {
+	opacity: 0;
+	fill: url(#Ellipse_1_b);
+}
+.Ellipse_1_b {
+	position: absolute;
+	overflow: visible;
+	width: 190px;
+	height: 190px;
+	left: 865px;
+	top: 415px;
+}
+#Thank_you_for_registering__We_ {
+	opacity: 0;
+	left: 78px;
+	top: 378px;
+	position: absolute;
+	overflow: visible;
+	width: 820px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 55px;
+	color: rgba(235,98,130,1);
+}
